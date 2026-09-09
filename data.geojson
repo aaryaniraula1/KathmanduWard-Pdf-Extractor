@@ -1,0 +1,423 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.464827,
+          27.645269
+        ]
+      },
+      "properties": {
+        "name": "##क",
+        "display_name": "क, dingarnagar, Dingarnagar, Tilottama-04, Tilottama, Rupandehi, Lumbini Province, 32903, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.459678,
+          27.6423894
+        ]
+      },
+      "properties": {
+        "name": "##को",
+        "display_name": "१२ को कुलो, Dingarnagar, Tilottama-04, Tilottama, Rupandehi, Lumbini Province, 32903, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "रसुवा भन्सारमा कार्यरत अनिताका बुवा भन्छन्, ‘घर बगेको छैन, छोरी पनि जीवितै होलिन्’",
+            "url": "https://nepalnews.com/2026/09/08/anitas-father-who-works-at-rasuwa-customs-says-the-house-was-not-washed-away-my-daughter-is-also-alive/",
+            "published_at": "2026-09-08T16:04:11"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8212328,
+          27.8810699
+        ]
+      },
+      "properties": {
+        "name": "##खोला",
+        "display_name": "Imja Khola, Shomare, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.407085,
+          27.976103
+        ]
+      },
+      "properties": {
+        "name": "##गण",
+        "display_name": "Da gang village, Ducheshwar-01, Ducheshwar, Nuwakot, Bagamati Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4621154,
+          27.6451898
+        ]
+      },
+      "properties": {
+        "name": "##घा",
+        "display_name": "भक्तपुर कोलोनी घ, dingarnagar, Dingarnagar, Tilottama-04, Tilottama, Rupandehi, Lumbini Province, 32903, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "रसुवा भन्सारमा कार्यरत अनिताका बुवा भन्छन्, ‘घर बगेको छैन, छोरी पनि जीवितै होलिन्’",
+            "url": "https://nepalnews.com/2026/09/08/anitas-father-who-works-at-rasuwa-customs-says-the-house-was-not-washed-away-my-daughter-is-also-alive/",
+            "published_at": "2026-09-08T16:04:11"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4557623,
+          27.6493257
+        ]
+      },
+      "properties": {
+        "name": "##ङ",
+        "display_name": "ङ, dingarnagar, Dingarnagar, Tilottama-04, Tilottama, Rupandehi, Lumbini Province, 03367, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.92521,
+          27.9880614
+        ]
+      },
+      "properties": {
+        "name": "##जा",
+        "display_name": "Mount Everest, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6636375,
+          29.529167
+        ]
+      },
+      "properties": {
+        "name": "##टका",
+        "display_name": "Taka Gaun, Budhinanda, Bajura, Sudurpashchim Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "बाढी प्रभावित क्षेत्रमा रोग फैलने आशंकामा सरकारले थाल्दै खोप अभियान",
+            "url": "https://khabarhub.com/2026/08/1022277/",
+            "published_at": "2026-09-08T15:37:29"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2135598,
+          27.9245267
+        ]
+      },
+      "properties": {
+        "name": "##टमा",
+        "display_name": "Tama Koshi, Lamabagar, Bigu-01, Bigu, Dolakha, Bagamati Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "बाढी प्रभावित क्षेत्रमा रोग फैलने आशंकामा सरकारले थाल्दै खोप अभियान",
+            "url": "https://khabarhub.com/2026/08/1022277/",
+            "published_at": "2026-09-08T15:37:29"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7069635,
+          26.9066675
+        ]
+      },
+      "properties": {
+        "name": "##टी",
+        "display_name": "Madhesh Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6123883,
+          27.5547783
+        ]
+      },
+      "properties": {
+        "name": "##ठा",
+        "display_name": "Sherina krishi farm tha pashupanxi farm, Simpani, Namobuddha-09, Namobuddha, Kavrepalanchok, Bagamati Province, 45205, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3398568,
+          27.7112838
+        ]
+      },
+      "properties": {
+        "name": "फरा",
+        "display_name": "Nepali Maharisi Foundation for Bhaidhik Culture, Sabhakti Marga, Paneku Tol, Chabahil, Kathmandu-07, Kathmandu Metropolitan City, Kathmandu, Bagamati Province, 44660, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "‘रसुवा बाढीअघि बढेको थियो असाधारण तापक्रम’",
+            "url": "https://khabarhub.com/2026/08/1022283/",
+            "published_at": "2026-09-08T16:13:44"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8520613,
+          27.8845323
+        ]
+      },
+      "properties": {
+        "name": "बम",
+        "display_name": "Booma, Barhabise-07, Barhabise, Sindhupalchowk, Bagamati Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "रसुवा भन्सारमा कार्यरत अनिताका बुवा भन्छन्, ‘घर बगेको छैन, छोरी पनि जीवितै होलिन्’",
+            "url": "https://nepalnews.com/2026/09/08/anitas-father-who-works-at-rasuwa-customs-says-the-house-was-not-washed-away-my-daughter-is-also-alive/",
+            "published_at": "2026-09-08T16:04:11"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.687254,
+          27.8078188
+        ]
+      },
+      "properties": {
+        "name": "भोट",
+        "display_name": "Bhote Koshi, Khumbupasanglahmu-05, Thamo, Khumbupasanglahmu, Solukhumbu, Koshi Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "रसुवा भन्सारमा कार्यरत अनिताका बुवा भन्छन्, ‘घर बगेको छैन, छोरी पनि जीवितै होलिन्’",
+            "url": "https://nepalnews.com/2026/09/08/anitas-father-who-works-at-rasuwa-customs-says-the-house-was-not-washed-away-my-daughter-is-also-alive/",
+            "published_at": "2026-09-08T16:04:11"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9946626,
+          27.9556327
+        ]
+      },
+      "properties": {
+        "name": "मह",
+        "display_name": "Mahalangur Himal, Koshi Province, 56002, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "जनतासँगको सम्बन्ध टाढिएका कारण एमाले कमजोर भयो– प्रदीप ज्ञवाली",
+            "url": "https://www.setopati.com/politics/397937",
+            "published_at": "2026-09-08T15:45:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.7436388,
+          28.2616382
+        ]
+      },
+      "properties": {
+        "name": "मोदी",
+        "display_name": "Modi-06, Tilahar, Modi, Parbat, Gandaki Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5089756,
+          28.2157564
+        ]
+      },
+      "properties": {
+        "name": "लाङटाङ",
+        "display_name": "Langtang, Gosaikunda-04, Gosaikunda, Rasuwa, Bagamati Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "‘रसुवा बाढीअघि बढेको थियो असाधारण तापक्रम’",
+            "url": "https://khabarhub.com/2026/08/1022283/",
+            "published_at": "2026-09-08T16:13:44"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4457086,
+          27.4908985
+        ]
+      },
+      "properties": {
+        "name": "वीर",
+        "display_name": "वीर पथ, Bir Path, Khajuriya, Siddharthanagar-03, Siddharthanagar, Rupandehi, Lumbini Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4196762,
+          27.0160716
+        ]
+      },
+      "properties": {
+        "name": "सय",
+        "display_name": "Chha Sai Bigaha Tole, Barahathawa-01, Barahathawa, Sarlahi, Madhesh Province, Nepal",
+        "article_count": 1,
+        "articles": [
+          {
+            "title": "कास्की प्रहरीले भन्यो– किम्रुङखोला थुनियो, सतर्कता अपनाउनू",
+            "url": "https://www.setopati.com/social/397938",
+            "published_at": "2026-09-08T15:49:00"
+          }
+        ]
+      }
+    }
+  ]
+}
