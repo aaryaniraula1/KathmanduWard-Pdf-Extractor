@@ -1,0 +1,25 @@
+{
+  "source": "https://ankamala.org/organogram/flat",
+  "total_graph_records": 4564,
+  "bodies": 2926,
+  "systems": 1029,
+  "unclassified": 609,
+  "body_levels": {
+    "federal": 1195,
+    "provincial": 892,
+    "local": 839
+  },
+  "duplicate_hosts": 0,
+  "parented_bodies": 2053,
+  "parentless_bodies": 873,
+  "invalid_parent_refs": 0,
+  "parent_refs_to_non_body": 36,
+  "depth_mismatches": 0,
+  "parent_lineage_mismatches": 0,
+  "missing_ancestor_refs": 0,
+  "hierarchy_cycles": 0,
+  "support_count_mismatches": 0,
+  "parent_edges_support_0": 0,
+  "parent_edges_support_1": 870,
+  "parent_edges_support_2_plus": 1183
+}
