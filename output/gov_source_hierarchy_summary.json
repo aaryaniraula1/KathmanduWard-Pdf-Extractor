@@ -1,0 +1,18 @@
+{
+  "source": "https://ankamala.org/organogram/flat",
+  "total_graph_records": 4564,
+  "government_bodies": 2926,
+  "official_hosts_attempted": 2937,
+  "official_hosts_fetched": 2007,
+  "official_hosts_failed": 930,
+  "parent_child_edges_compared": 2053,
+  "findings": 183,
+  "status_counts": {
+    "source_supported_mismatch": 4,
+    "classification_mismatch": 134,
+    "parent_classification_mismatch": 45,
+    "review": 42,
+    "source_unreachable": 205,
+    "no_mismatch_detected": 1623
+  }
+}
