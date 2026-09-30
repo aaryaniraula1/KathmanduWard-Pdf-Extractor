@@ -1,27 +1,25 @@
 # Bharatpur PDF Table Extraction
 
-Extracts the table from Bharatpur's annual development plan, PDF page 19
-(printed page 17), using Lipi's `Pdf2Json` with Camelot lattice.
+Extracts PDF page 19 (printed page 17) using Lipi's Pdf2Json
+with Camelot lattice. Tesseract Nepali OCR improves activity
+names, while numeric values come from PDF text extraction.
 
-Tesseract Nepali OCR reads activity names from individual table cells.
-Numeric values are retained from PDF text extraction.
+## Requirements
 
-## Setup
-
-Requires Python, the private Ankamala Lipi repository cloned locally,
-and Tesseract with the Nepali (`nep`) language model.
-
-Create a virtual environment and install dependencies in PowerShell:
-
-```powershell
-py -3.13 -m venv .venv
-.\.venv\Scripts\python.exe -m pip install "PATH\TO\YOUR\lipi" -r requirements.txt
-```
-
-Replace `PATH\TO\YOUR\lipi` with the clone folder containing `pyproject.toml`.
-
-Keep `camelot-py==1.0.9` for compatibility with this Lipi integration.
+Ankamala Lipi, the packages in requirements.txt, and Tesseract
+with the Nepali language model. Camelot is pinned to 1.0.9.
 
 ## Run
 
-Place the source PDF at `input/Bharatpur_Budget.pdf`, then run
+Place the PDF at input/Bharatpur_Budget.pdf.
+Run using the Python environment where the dependencies are installed:
+
+python src/extract_bharatpur.py
+
+## Output
+
+The output folder contains raw Lipi JSON, cleaned JSON and CSV,
+an OCR comparison log, and the rendered page.
+
+The extraction returns 17 numbered records and 9 columns.
+Nepali OCR wording still needs checking against the PDF.
