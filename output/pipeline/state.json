@@ -1,0 +1,12 @@
+{
+  "id": "bharatpur-page19",
+  "status": "completed",
+  "error": null,
+  "output": [
+    "C:\\Users\\MERIDI~1\\AppData\\Local\\Temp\\tmpjempyu1d\\input\\bharatpur-page19--source.pdf",
+    "C:\\Users\\Meridian IT\\Desktop\\Ankamala\\lipi-extraction-demo\\output\\pipeline\\ocr2pdf--ultha-op--bharatpur-page19--source.pdf",
+    "C:\\Users\\Meridian IT\\Desktop\\Ankamala\\lipi-extraction-demo\\output\\pipeline\\pdf2txt--ultha-op--bharatpur-page19--source.txt"
+  ],
+  "s3_upload": [],
+  "last_operator": 2
+}

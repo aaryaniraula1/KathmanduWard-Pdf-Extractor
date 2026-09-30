@@ -1,0 +1,9 @@
+{
+  "input_file": "page19_table.json",
+  "schema_passed": true,
+  "rows": 17,
+  "columns": 9,
+  "nonempty_text_fields": true,
+  "duplicate_test_rejected": true,
+  "pdf_content_accuracy_verified": false
+}
