@@ -22,4 +22,3 @@ The output folder contains raw Lipi JSON, cleaned JSON and CSV,
 an OCR comparison log, and the rendered page.
 
 The extraction returns 17 numbered records and 9 columns.
-Nepali OCR wording still needs checking against the PDF.
