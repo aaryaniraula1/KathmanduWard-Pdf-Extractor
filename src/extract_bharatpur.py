@@ -16,7 +16,7 @@ from PIL import Image
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 PDF_PATH = PROJECT_DIR / "input" / "Bharatpur_Budget.pdf"
-OUTPUT_DIR = PROJECT_DIR / "output"
+OUTPUT_DIR = PROJECT_DIR / "output" / "pdf2json"
 
 PAGE_NUMBER = 19
 RENDER_SCALE = 4
